@@ -2,7 +2,7 @@
 
 A Streamlit web app that classifies Alzheimer’s disease stage using deep learning on brain MRI images.
 
-## 🧬 Project Description
+## Project Description
 
 This project uses a Convolutional Neural Network (CNN) with transfer learning (VGG16) to classify brain MRI images into four categories:
 - **Non Demented**
