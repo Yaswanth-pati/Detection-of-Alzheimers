@@ -33,14 +33,13 @@ Alzheimers Project/
 ├── utils.py                      # Image preprocessing & prediction logic
 ├── requirements.txt              # Python and streamlit  dependencies
 ├── Alzheimers project.ipynb      # Model training notebook
-├── Detection_of_Alzheimer.docx   # Project report
 └── Data/                         # Dataset (used only during training)
     
 ```
 ## Deployment
 
 Deployed on **Streamlit Cloud**:  
- [Link to the Live App](#) ← *(coming soon)*
+ [https://alzheimers-classifier.streamlit.app/](#)
 
 ### Or run locally:
 
