@@ -39,7 +39,7 @@ Alzheimers Project/
 ## Deployment
 
 Deployed on **Streamlit Cloud**:  
- [https://alzheimers-classifier.streamlit.app/](#)
+ https://alzheimers-classifier.streamlit.app/
 
 ### Or run locally:
 
@@ -50,6 +50,7 @@ streamlit run app.py
 
 ```
 
-## Authors
+## Author
 
-**Yaswanth Pati** – Data Scientist
+- **Yaswanth Pati** – Data Scientist.
+- Special thanks to my teammates
