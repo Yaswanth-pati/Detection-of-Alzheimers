@@ -1,5 +1,17 @@
 # Alzheimer’s Disease Detection from Brain MRI using CNN
 
+## Project Introduction
+
+Alzheimer’s Disease is a progressive neurological disorder that affects memory and cognitive function. Early detection is crucial for managing and slowing the progression of the disease. This project leverages deep learning and medical imaging to classify brain MRI scans into different stages of Alzheimer’s disease.
+
+Using a pre-trained VGG16 Convolutional Neural Network as a feature extractor, we fine-tune a custom classification head to distinguish between four diagnostic categories:
+	•	Non Demented
+	•	Very Mild Demented
+	•	Mild Demented
+	•	Moderate Demented
+
+The project is deployed as a user-friendly Streamlit web application, where users can upload an MRI image and instantly receive a prediction of the disease stage. This tool demonstrates the potential of AI in assisting medical diagnosis and increasing awareness around cognitive health conditions.
+
 A Streamlit web app that classifies Alzheimer’s disease stage using deep learning on brain MRI images.
 
 ## Project Description
